@@ -1,6 +1,5 @@
 # Ignore the following files
-*.xlsx
-*.png
 .ipynb_checkpoints/
 __pycache__/
 *.xlsx
+*.png
